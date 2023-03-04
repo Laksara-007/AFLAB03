@@ -1,0 +1,19 @@
+{
+  "name": "aflab03",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Laksara-007/AFLAB03.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Laksara-007/AFLAB03/issues"
+  },
+  "homepage": "https://github.com/Laksara-007/AFLAB03#readme"
+}
